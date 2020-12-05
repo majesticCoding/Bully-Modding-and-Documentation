@@ -22,4 +22,4 @@ Or, another title from [_Rockstar Games_](https://en.wikipedia.org/wiki/Rockstar
 
 **------------_Page End_------------**
 
-[Previous Page - Main](https://simonbestia.github.io/Bully-Modding-Reference/)
+[Previous Page - Main](https://simonbestia.github.io/Bully-Modding-and-Documentation/)
