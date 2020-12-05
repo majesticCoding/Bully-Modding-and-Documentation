@@ -19,6 +19,15 @@ Or, another title from [_Rockstar Games_](https://en.wikipedia.org/wiki/Rockstar
 
 ## Actual limitations for BULLY
 
+Due to having very little RAM to use, things that are very common on mods made for **PC** can't be done on the **PS2**.
+
+For example:
+- Loading every Animation Group of the game to avoid A-Posing. (Forget about mods like **Super Mod** running properly on the **PS2**)
+- Keeping multiple Threads running at the same time.
+
+
+[_Rockstar Vancouver_](https://en.wikipedia.org/wiki/Rockstar_Vancouver) did things like copy-pasting the same Animation in **MANY** different Animation Groups, leading to a higher size of the game, but with the advantage of creating Animation Groups with a very specific set of Animations to use for specific missions, and avoid loading unnecessary Animations.
+
 
 **------------_Page End_------------**
 
