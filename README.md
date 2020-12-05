@@ -13,5 +13,5 @@
 
 The truth is, it's not really **THAT** much different, but there are things to keep in mind:
 
-- [_Limitations_](https://github.com/SimonBestia/Bully-Modding-Reference/PS2/Limitations)
-- [_Version Differences_](https://github.com/SimonBestia/Bully-Modding-Reference/PS2/Differences)
+- [_Limitations_](https://simonbestia.github.io/Bully-Modding-Reference/PS2/Limitations)
+- [_Version Differences_](https://simonbestia.github.io/Bully-Modding-Reference/PS2/Differences)
