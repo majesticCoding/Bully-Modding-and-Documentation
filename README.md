@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/36112411/101244163-17e24100-3705-11eb-9b3c-773bfc8f4337.png" width="400">
-  <img src="https://user-images.githubusercontent.com/36112411/101243899-81615000-3703-11eb-96e9-7450ad242ec9.png" width="400">
 </p>
 
 ### Original - PS2
