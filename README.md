@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Quickstart - Original Vs Scholarship Edition
 
-You can use the [editor on GitHub](https://github.com/SimonBestia/Bully-Modding-Reference/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/36112411/101244163-17e24100-3705-11eb-9b3c-773bfc8f4337.png" width="400">
+  <img src="https://user-images.githubusercontent.com/36112411/101243899-81615000-3703-11eb-96e9-7450ad242ec9.png" width="400">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Original - PS2
 
-### Markdown
+<p align="left">
+  Many people are surprised to see me modding the original  <img src="https://user-images.githubusercontent.com/36112411/101244342-36950780-3706-11eb-9d21-0e278a840d77.png" width="130">.
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The truth is, it's not really **THAT** much different, but there are things to keep in mind:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimonBestia/Bully-Modding-Reference/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [_Limitations_](https://github.com/SimonBestia/Bully-Modding-Reference/PS2/Limitations)
+- [_Version Differences_](https://github.com/SimonBestia/Bully-Modding-Reference/PS2/Differences)
