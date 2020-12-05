@@ -7,9 +7,7 @@
 
 ### Original - PS2
 
-<p align="left">
-  Many people are surprised to see me modding the original  <img src="https://user-images.githubusercontent.com/36112411/101244342-36950780-3706-11eb-9d21-0e278a840d77.png" width="130">.
-</p>
+Many people are surprised to see me modding the original **BULLY**.
 
 The truth is, it's not really **THAT** much different, but there are things to keep in mind:
 
