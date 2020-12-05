@@ -22,7 +22,7 @@ For example:
 - Loading every Animation Group of the game to avoid A-Posing. (Forget about mods like **Super Mod** running properly on the **PS2**)
 - Keeping multiple Threads running at the same time.
 
-[_Rockstar Vancouver_](https://en.wikipedia.org/wiki/Rockstar_Vancouver) did things like copy-pasting the same Animation in **MANY** different Animation Groups, leading to a higher size of the game, but with the advantage of creating Animation Groups with a very specific set of Animations to use for specific missions, and avoid loading unnecessary Animations.
+[_Rockstar Vancouver_](https://en.wikipedia.org/wiki/Rockstar_Vancouver) did things like copy-pasting the same Animation in **MANY** different Animation Groups, leading to an increased size of the game, but with the advantage of creating Animation Groups with a very specific set of Animations to use for specific missions, and avoid loading unnecessary Animations.
 
 Check out the [Common Misconceptions](https://simonbestia.github.io/Bully-Modding-and-Documentation/PS2/Limitations/Misconceptions) page, for more In-Depth information.
 
