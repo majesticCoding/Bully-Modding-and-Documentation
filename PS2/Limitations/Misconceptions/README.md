@@ -25,7 +25,7 @@ As you may already know, [_Rockstar Games_](https://en.wikipedia.org/wiki/Rockst
 But every now and then, someone manages to contact developers, who can share stories:
 
 > "When Bully started, it was an eight person Env team, by the third year in on production it was down to just myself and Jae Lee. Things needed to go."
-- **_[Andrew Wood](https://www.reddit.com/r/bully/comments/eq1xvm/a_former_rockstar_vancouver_employee_told_me_some/)_**
+-**_[Andrew Wood](https://www.reddit.com/r/bully/comments/eq1xvm/a_former_rockstar_vancouver_employee_told_me_some/)_**
 
 **------------_Page End_------------**
 
