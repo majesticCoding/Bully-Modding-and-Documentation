@@ -7,7 +7,7 @@
 
 On the **PS2** version, there is a difference with IDs for vehicles, weapons and items.
 
-More specifically, vehicles start with the ID 248 on the **PS2**, but with 272 on **Scholarship Edition**. This is due to the new characters and items added.
+More specifically, vehicles start with the ID 248 on the **PS2**, but with the ID 272 on **Scholarship Edition**. This is due to the new characters and items added.
 
 This means that, if you want to get the **PS2** counterpart of an ID from **Scholarship Edition**, you'll have to subtract 24 for vehicles, 22 for weapons, and 34 for items.
 
