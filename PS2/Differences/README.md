@@ -21,7 +21,7 @@ Examples:
 
 [_Derpy's Bully LUA Reference_](https://derpy54320.github.io/Bully-LUA-Reference/index.html) site already has the **Scholarship Edition** IDs.
 
-If you want the PS2 ones, here is a [Pastebin](https://pastebin.com/print/KWD4s4i4) with the entire list.
+If you want the PS2 ones, here is a [Pastebin](https://pastebin.com/KWD4s4i4) with the entire list.
 
 **------------_Page End_------------**
 
