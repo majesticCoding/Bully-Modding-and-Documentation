@@ -4,14 +4,14 @@ Once again, I see a lot of people saying how things were cut from the game for m
 
 > "_There wasn't enough space on the DVD._"
 
-Not true. **_BULLY_** has a couple hundred Megabytes of free space.
+Not true. **BULLY** has a couple hundred Megabytes of free space.
 
 > "_The **PS2** wasn't powerful enough._"
 [_Grand Theft Auto: San Andreas_](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas)
 
 > "_Because of the **T Rating**_"
 
-That rating is actually pretty flexible and **_BULLY_**'s cut content would probably not be enough to turn it to an **M Rating**.
+That rating is actually pretty flexible and **BULLY**'s cut content would probably not be enough to turn it to an **M Rating**.
 
 The Joker almost drops an F-bomb in [_Injustice: Gods Among Us_](https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us).
 
