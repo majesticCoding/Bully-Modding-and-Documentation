@@ -1,6 +1,3 @@
-title: [The title of your site]
-description: [A short description of your site's purpose]
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SimonBestia/Bully-Modding-Reference/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
