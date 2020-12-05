@@ -9,7 +9,7 @@ More specifically, vehicles start with the ID 248 on the **PS2**, but with 272 o
 
 This means that, if you want to get the **PS2** counterpart of an ID from **Scholarship Edition**, you'll have to subtract 24 for vehicles, 22 for weapons, and 34 for items.
 
-Examples - Vehicles:
+Examples:
 **PS2** | **Scholarship Edition**
 ------------ | -------------
 248 bmxrace | 272 bmxrace
