@@ -16,5 +16,6 @@ Or, another title from [_Rockstar Games_](https://en.wikipedia.org/wiki/Rockstar
 ## Actual limitations for BULLY
 
 
-------------
+**------------_Page End_------------**
+
 [Previous Page - Main](https://simonbestia.github.io/Bully-Modding-Reference/)
