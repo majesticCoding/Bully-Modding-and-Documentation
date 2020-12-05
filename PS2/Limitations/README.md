@@ -2,7 +2,7 @@
 
 **Average commenter on videos of mine:**
 
-> _BuT tHe PS2 HaS lImItAtIoNs!_
+> _"BuT tHe PS2 HaS lImItAtIoNs!"_
 
 Yes. That is _**true**_.
 
