@@ -20,7 +20,7 @@ Examples:
 277 yardstick | 299 yardstick
 428 coin_dollar | 462 coin_dollar
 
-[_Derpy's Bully LUA Reference_](https://derpy54320.github.io/Bully-LUA-Reference/index.html) site already has the **Scholarship Edition** IDs.
+[_Derpy's_](https://twitter.com/derpy54320) [_Bully LUA Reference_](https://derpy54320.github.io/Bully-LUA-Reference/index.html) site already has the **Scholarship Edition** IDs.
 
 If you want the **PS2** ones, here is a [Pastebin](https://pastebin.com/raw/KWD4s4i4) with the entire list.
 
