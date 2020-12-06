@@ -11,12 +11,30 @@ $header-bg-color-secondary: #4E4E4E !default;
 //Text
 $section-headings-color: #000000 !default;
 
-/*
-   h1, h2 {
+h1 {
    text-color: red;
    text-shadow: 2px 2px #000000;
 }
-*/
+
+h2 {
+   text-color: blue;
+   text-shadow: 2px 2px #000000;
+}
+
+h3 {
+   text-color: green;
+   text-shadow: 2px 2px #000000;
+}
+
+h4 {
+   text-color: pink;
+   text-shadow: 2px 2px #000000;
+}
+
+h5 {
+   text-color: purple;
+   text-shadow: 2px 2px #000000;
+}
 
 body{
 	background-color: rgb(222,222,222);
