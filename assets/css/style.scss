@@ -1,13 +1,28 @@
 ---
 ---
-
+// Breakpoints
 $large-breakpoint: 84em !default;
 $medium-breakpoint: 52em !default;
 
-$section-headings-color: #000000 !default;
-
+//Header
 $header-bg-color: #2F2F2F !default;
 $header-bg-color-secondary: #4E4E4E !default;
+
+//Text
+$section-headings-color: #000000 !default;
+
+ h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: $section-headings-color;
+    text-shadow: 2px 2px #838383;
+  }
 
 body{
 	background-color: rgb(222,222,222);
