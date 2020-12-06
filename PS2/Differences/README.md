@@ -5,6 +5,7 @@
   <img src="https://user-images.githubusercontent.com/36112411/101243899-81615000-3703-11eb-96e9-7450ad242ec9.png" width="400">
 </p>
 
+## IDs
 On the **PS2** version, there is a difference with IDs for vehicles, weapons and items.
 
 More specifically, vehicles start with the ID 248 on the **PS2**, but with the ID 272 on **Scholarship Edition**. This is due to the new characters and items added.
