@@ -7,6 +7,7 @@ Once again, I see a lot of people saying how things were cut from the game for m
 Not true. **BULLY** has a couple hundred Megabytes of free space.
 
 > "_The **PS2** wasn't powerful enough._"
+
 [_Grand Theft Auto: San Andreas_](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas)
 
 > "_Because of the **T Rating**_"
