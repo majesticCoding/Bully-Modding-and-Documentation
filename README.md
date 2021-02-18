@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/36112411/108358647-46919300-71ef-11eb-9507-fbdda7d0ff60.png" width="400">
 </p>
 
-### Modding
+### Modding Process
 #### Original - PS2
 
 Many people are surprised to see me modding the original **BULLY**.
