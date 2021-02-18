@@ -1,6 +1,6 @@
 ## Modding Reference and Documentation on
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/36112411/101244342-36950780-3706-11eb-9d21-0e278a840d77.png" width="400">
+  <img src="https://user-images.githubusercontent.com/36112411/108358647-46919300-71ef-11eb-9507-fbdda7d0ff60.png" width="400">
 </p>
 
 ### Modding
