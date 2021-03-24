@@ -3,6 +3,10 @@
   <img src="https://user-images.githubusercontent.com/36112411/108358647-46919300-71ef-11eb-9507-fbdda7d0ff60.png" width="400">
 </p>
 
+### Modding Resources
+* [_Mission IDs_](https://simonbestia.github.io/Bully-Modding-and-Documentation/Resources/MissionIDs)
+* [_Area IDs_](https://simonbestia.github.io/Bully-Modding-and-Documentation/Resources/AreaIDs)
+
 ### Modding Process
 #### Original - PS2
 
