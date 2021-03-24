@@ -63,6 +63,137 @@
 6_02 | Save Russell
 6_03 | Complete Mayhem
 
+## Side Missions
+
+**Mission ID** | **Mission Name**
+------------ | -------------
+1_S01 | Hattrick vs. Galloway
+2_S02 | Glass House
+3_S03 | Cheating Time
+2_S04 | Character Sheets
+2_S05 | Cook's Crush/Cook's Date
+2_S06 | Panty Raid
+2_S07 | Small Offences
+3_S08 | Mailbox Armageddon
+3_S10 | Tagging
+3_S11 | Galloway Away
+4_S12 | Here's to you Ms. Philips
+
+## Boss Fights
+
+**Mission ID** | **Mission Name**
+------------ | -------------
+1_B | Russell In the Hole
+2_B | Dishonorable Fight
+3_B | Fighting Johnny Vincent
+4_B1 | Nerd Boss Fight
+4_B2 | Jock Boss Fight
+5_B | Showdown at the Plant
+6_B | Final Showdown
+
+## "R" Missions
+
+**Mission ID** | **Mission Name**
+------------ | -------------
+2_R03 | Paper Route
+3_R05B | Discreet Deliveries
+3_R07 | The Collector
+3_R09_P3 | Prep Challenge
+3_R09_N | Nerd Challenge
+3_R09_G3 | Greasers Challenge
+3_R09_J3 | Jocks Challenge
+3_R09_D3 | Townies Challenge
+2_R11_Chad | Boxing Minigame
+
+## Girl Missions
+
+**Mission ID** | **Mission Name**
+------------ | -------------
+1_G1 | The Diary
+2_G2 | Carnival Date
+3_G3 | Lola's Race
+4_G4 | Discretion Assured
+5_G5 | Smash It Up
+
+## Chapter Transitions
+
+**Mission ID** | **Mission Name**
+------------ | -------------
+Chapt1Trans | Chapter 1>2
+Chapt2Trans | Chapter 2>3
+Chapt3Trans | Chapter 3>4
+Chapt4Trans | Chapter 4>5
+Chapt5Trans | Chapter 5>6
+
+## Minigames
+
+**Mission ID** | **Mission Name**
+------------ | -------------
+MGHackySack | Keep-ups
+SoccerPen | Penalty Shots
+BMXRumble | BMXRUMBLE
+
+## Classes
+
+**Mission ID** | **Mission Name**
+------------ | -------------
+C_Chem_1 | Chemistry 1
+C_Chem_2 | Chemistry 2
+C_Chem_3 | Chemistry 3
+C_Chem_4 | Chemistry 4
+C_Chem_5 | Chemistry 5
+C_Art_1 | Art 1
+C_Art_2 | Art 2
+C_Art_3 | Art 3
+C_Art_4 | Art 4
+C_Art_5 | Art 5
+C_Wrestling_1 | Gym 1
+C_Wrestling_2 | Gym 2
+C_Wrestling_3 | Gym 3
+C_Wrestling_4 | Gym 4
+C_Wrestling_5 | Gym 5
+C_Photography_1 | Photography 1
+C_Photography_2 | Photography 2
+C_Photography_3 | Photography 3
+C_Photography_4 | Photography 4
+C_Photography_5 | Photography 5
+C_English_1 | English 1
+C_English_2 | English 2
+C_English_3 | English 3
+C_English_4 | English 4
+C_English_5 | English 5
+C_Shop_1 | Shop 1
+C_Shop_2 | Shop 2
+C_Shop_3 | Shop 3
+C_Shop_4 | Shop 4
+C_Shop_5 | Shop 5
+C_Dodgeball_1 | Dodgeball vs Preps
+C_Dodgeball_2 | Dodgeball vs Greasers
+C_Dodgeball_3 | Dodgeball vs Jocks
+C_Dodgeball_4 | Dodgeball vs Townies
+C_Dodgeball_5 | Dodgeball vs random
+C_Biology_1 | Biology 1
+C_Biology_2 | Biology 2
+C_Biology_3 | Biology 3
+C_Biology_4 | Biology 4
+C_Biology_5 | Biology 5
+C_Geography_1 | Geography 1
+C_Geography_2 | Geography 2
+C_Geography_3 | Geography 3
+C_Geography_4 | Geography 4
+C_Geography_5 | Geography 5
+C_Math_1 | Math 1
+C_Math_2 | Math 2
+C_Math_3 | Math 3
+C_Math_4 | Math 4
+C_Math_5 | Math 5
+C_Music_1 | Music 1
+C_Music_2 | Music 2
+C_Music_3 | Music 3
+C_Music_4 | Music 4
+C_Music_5 | Music 5
+
+
 **------------_Page End_------------**
 
 [Previous Page - Main](https://simonbestia.github.io/Bully-Modding-and-Documentation/)
