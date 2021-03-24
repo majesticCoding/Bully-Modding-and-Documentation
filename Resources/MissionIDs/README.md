@@ -5,6 +5,11 @@
 ------------ | -------------
 1_01 | Welcome to Bullworth (Start>Miss Danvers' office)
 
+**PS2** | **Scholarship Edition**
+------------ | -------------
+248 bmxrace | 272 bmxrace
+277 yardstick | 299 yardstick
+428 coin_dollar | 462 coin_dollar
 
 **------------_Page End_------------**
 
