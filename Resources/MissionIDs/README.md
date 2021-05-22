@@ -91,7 +91,7 @@
 5_B | Showdown at the Plant
 6_B | Final Showdown
 
-## "R" Missions
+## Replayable Missions
 
 **Mission ID** | **Mission Name**
 ------------ | -------------
